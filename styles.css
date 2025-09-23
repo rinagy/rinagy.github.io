@@ -1,0 +1,41 @@
+body {
+  background: #111;
+  color: #eee;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.rnga-topbar {
+  background: #222;
+  color: #fff;
+  padding: 10px 16px;
+}
+
+.rnga-topbar h1 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.rnga-meta {
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+.rnga-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 12px;
+}
+
+.rnga-card {
+  background: #1a1a1a;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
+.rnga-section summary {
+  cursor: pointer;
+  font-weight: bold;
+}
